@@ -1,0 +1,32 @@
+
+@media screen and (max-width: 768px) {
+    .hero-img{
+        height: auto;
+    }
+    .section{
+        padding: 1.5rem 0;
+    }
+   
+    .featureTab li.nav-item .nav-link {
+        padding: 30px 0px;
+    }
+    .headerhead {
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+      font-weight: bold;
+    }
+    .sec-heading{
+        margin-top: 1rem;
+        font-weight: bold;
+    }
+    .secondary {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        font-weight: bold;
+    }
+    .footer .social-icon i {
+        font-size: 21px;
+        margin-right: 17px;
+    }
+}
+

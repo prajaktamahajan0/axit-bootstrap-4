@@ -1,0 +1,30 @@
+:root {
+    --color-primary: #ff8b38;
+    --color-secondary: #f5f5f5;
+    --color-dark: #000;
+    --color-white: #fff;
+    --color-placeholder: #bdbdbd;
+    --color-text-sec: #86878b;  
+    --color-text-pri : #212121;
+    --color-icon : #cccccc;
+    --color-three : #33333333;
+}
+
+.commonpara {
+    color: var(--color-text-sec);   
+}
+
+.pri-heading {
+    color: var(--color-text-pri);
+}
+
+.sec-heading {
+    /* font-size: 1.25rem; */
+    color: var(--color-dark);
+    text-transform: capitalize;
+    /* font-weight: bold; */
+}
+.three {
+ color: var(--color-three);
+ font-weight: bold;
+}
